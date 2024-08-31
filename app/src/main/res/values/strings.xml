@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Alert Dialog</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">DatePicker</string>
+    <string name="menu_slideshow">TimePicker</string>
+    <string name="sair">Deseja realmente sair?</string>
+    <string name="sim">sim</string>
+    <string name="nao">não</string>
+    <string name="bye">Até breve!</string>
+    <string name="thanks">:) Ty</string>
+    <string name="openDialog">Switch Profile</string>
+    <string name="titulo">Escolha o envio:</string>
+    <string name="resInfo">Voce escolheu o envio por</string>
+    <string name="openDatePicker">Open DatePicker</string>
+    <string name="openTImePicker">Open TimePicker</string>
+    <array name="infos">
+        <item>Email</item>
+        <item>Zap Zap</item>
+        <item>Telefone</item>
+        <item>SMS</item>
+    </array>
+</resources>
